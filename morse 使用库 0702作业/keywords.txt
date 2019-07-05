@@ -1,0 +1,7 @@
+MorseBase  KEYWORD1
+dah KEYWORD2
+dit KEYWORD2
+eow KEYWORD2
+eoc KEYWORD2
+#fsdkjfhsdk
+#dasda
